@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stripe-sub-menu_react/static/css/main.1482229b.chunk.css",
+    "main.js": "/stripe-sub-menu_react/static/js/main.a13639b8.chunk.js",
+    "main.js.map": "/stripe-sub-menu_react/static/js/main.a13639b8.chunk.js.map",
+    "runtime-main.js": "/stripe-sub-menu_react/static/js/runtime-main.81369b8f.js",
+    "runtime-main.js.map": "/stripe-sub-menu_react/static/js/runtime-main.81369b8f.js.map",
+    "static/js/2.65c806bb.chunk.js": "/stripe-sub-menu_react/static/js/2.65c806bb.chunk.js",
+    "static/js/2.65c806bb.chunk.js.map": "/stripe-sub-menu_react/static/js/2.65c806bb.chunk.js.map",
+    "static/js/3.923e765a.chunk.js": "/stripe-sub-menu_react/static/js/3.923e765a.chunk.js",
+    "static/js/3.923e765a.chunk.js.map": "/stripe-sub-menu_react/static/js/3.923e765a.chunk.js.map",
+    "index.html": "/stripe-sub-menu_react/index.html",
+    "static/css/main.1482229b.chunk.css.map": "/stripe-sub-menu_react/static/css/main.1482229b.chunk.css.map",
+    "static/js/2.65c806bb.chunk.js.LICENSE.txt": "/stripe-sub-menu_react/static/js/2.65c806bb.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/stripe-sub-menu_react/static/media/hero.1382a501.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81369b8f.js",
+    "static/js/2.65c806bb.chunk.js",
+    "static/css/main.1482229b.chunk.css",
+    "static/js/main.a13639b8.chunk.js"
+  ]
+}
